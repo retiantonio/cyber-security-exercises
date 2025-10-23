@@ -1,0 +1,57 @@
+{
+    "name_matches": {
+        "file*.txt": [],
+        "file*.json": [
+            "02_Fisiere_si_hashuri/test_dir/2xrFy/OY4xu1/MxLhzr6R/eid/zSN46/file_GN9z.json"
+        ],
+        "log*.txt": [
+            "02_Fisiere_si_hashuri/test_dir/-1ErW/0BI/log_oqM.txt"
+        ],
+        "log*.json": [
+            "02_Fisiere_si_hashuri/test_dir/CiWqsa3/R5120F/whmKf/log_HGZ.json"
+        ],
+        "config*.txt": [
+            "02_Fisiere_si_hashuri/test_dir/2xrFy/b4HsrDFp/qelwx/EIxbl/config_t3u-.txt"
+        ],
+        "config*.json": [
+            "02_Fisiere_si_hashuri/test_dir/2xrFy/GiZQxJS/-Kn/KJM9p9/aIvFC2/config_Kxx_tp.json",
+            "02_Fisiere_si_hashuri/test_dir/3WN51kk/PDQhk/USQXamHj/Dduzi/tLzhjaG/config_gsE.json",
+            "02_Fisiere_si_hashuri/test_dir/bM4gev3/lPl4/5LC/config_uOgZtNl.json"
+        ]
+    },
+    "md5_matches": {
+        "2dad46c701dee2f00d4b3eb52900ea11": [
+            "02_Fisiere_si_hashuri/test_dir/_LhcGsk/_kj073t/gFZHo0/MRC/8yeBc25/O8HqWd"
+        ],
+        "b33894b74a10c1bc1d8142aaaa346ad3": [
+            "02_Fisiere_si_hashuri/test_dir/_LhcGsk/72IBTQq/-0gF/Z6F/7Im/AEzKR2"
+        ],
+        "cc4958eb798513572698168429ddf589": [
+            "02_Fisiere_si_hashuri/test_dir/WZVG2w5s/79vTyL/X8d11u41/-iVLo/YfrBR/Vqzi"
+        ],
+        "9b8eac377010af206b0b86f0351f997f": [
+            "02_Fisiere_si_hashuri/test_dir/WZVG2w5s/wJMf/ZieYhA/ve5e/cDnBla/_pfHaoK"
+        ],
+        "02ee414ecea97239ab668d64396d4962": [
+            "02_Fisiere_si_hashuri/test_dir/WZVG2w5s/wJMf/W_G/nsT8VF-m"
+        ],
+        "1371babdf80f7102439a3f3a105756d1": [
+            "02_Fisiere_si_hashuri/test_dir/WZVG2w5s/wJMf/W_G/iDE/yDx"
+        ],
+        "ff143e3503fcf71a11a5ee41d7d128c2": [
+            "02_Fisiere_si_hashuri/test_dir/qa6K/peK4N/jMj/O5lkgZ/deqGlA"
+        ],
+        "e7ddc1931fe681cc20db484e5eea4975": [
+            "02_Fisiere_si_hashuri/test_dir/2xrFy/GiZQxJS/-Kn/KJM9p9/tRNYgDw-/zMSn"
+        ],
+        "304bca610bf179cbe7b86ad990196ce7": [
+            "02_Fisiere_si_hashuri/test_dir/3WN51kk/hEZR5/CoEy/doVq5sy/r8K3S/CuU9"
+        ],
+        "376a35d8405f90b24e838e4a1892df0c": [
+            "02_Fisiere_si_hashuri/test_dir/3WN51kk/8BeNOX2A/SSNFb/CSO3/cf8/6oO_"
+        ],
+        "eb720c489354a2777f023a31ce2c7ec8": [
+            "02_Fisiere_si_hashuri/test_dir/3WN51kk/EmS8Yzb/7c1utC/MG2t/oGA_k"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "file_patterns": [
+    "file*.txt",
+    "file*.json",
+    "log*.txt",
+    "log*.json",
+    "config*.txt",
+    "config*.json"
+  ],
+  "md5_hashes": [
+    "2dad46c701dee2f00d4b3eb52900ea11",
+    "b33894b74a10c1bc1d8142aaaa346ad3",
+    "cc4958eb798513572698168429ddf589",
+    "9b8eac377010af206b0b86f0351f997f",
+    "02ee414ecea97239ab668d64396d4962",
+    "1371babdf80f7102439a3f3a105756d1",
+    "ff143e3503fcf71a11a5ee41d7d128c2",
+    "e7ddc1931fe681cc20db484e5eea4975",
+    "304bca610bf179cbe7b86ad990196ce7",
+    "376a35d8405f90b24e838e4a1892df0c",
+    "eb720c489354a2777f023a31ce2c7ec8"
+  ]
+}
